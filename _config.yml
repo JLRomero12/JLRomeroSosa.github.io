@@ -26,6 +26,7 @@ external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:juanluisromerososa@hotmail.com"}
   - {title: GoogleScholar, icon: google, url: "https://scholar.google.com/citations?user=y07ImpgAAAAJ&hl=en", target: "_blank"}
   - {title: Github, icon: github, url: "https://jlromero12.github.io"}
+  - {title: ORCID, icon: orcid, url: "https://orcid.org/my-orcid?orcid=0000-0002-3944-3461", target: "_blank"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
