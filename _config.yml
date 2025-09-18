@@ -25,7 +25,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:juanluisromerososa@hotmail.com"}
   - {title: GoogleScholar, icon: google, url: "https://scholar.google.com/citations?user=y07ImpgAAAAJ&hl=en", target: "_blank"}
-  - {title: Github, icon: github, url: "https://jlromero12.github.io/JLRomeroSosa.github.io"}
+  - {title: Github, icon: github, url: "https://jlromero12.github.io"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
